@@ -1,8 +1,24 @@
 
-
-
-
-
+.title-wave{
+    border: 4px solid rebeccapurple;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40 px;
+    font-weight: bold;
+    text-transform: uppercase;
+ 
+}
+.title-wave img{
+    /* border: 3px solid orange; */
+    position: absolute;
+    right: 15px;
+    bottom: 2px;
+}
 .page-title{
     border: 2px dashed blueviolet ;
     display: flex;
@@ -10,6 +26,7 @@
     justify-content: center;
     text-transform: uppercase;
 }
+
 .footer{
     color: white;
 }

@@ -28,7 +28,7 @@ body{
 .main-nav img{
     border: 2px solid blue;
     max-width: 200px;
-    margin-left: 60px;
+    margin-left: 90px;
 }
 .main-nav a:hover{
     color: rgba(219, 42, 85, 1);
@@ -109,7 +109,7 @@ a:visited {
 }
 
 /*page heading in all pages*/
-h1{
+.page-title h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 40 px;
     font-weight: bold;
