@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.embed-responsive-21by9{
+    margin-top: 50px;
+}
+.bg-dark{
+    background-color: rgb(0, 0, 255,0);
+}
+ .exit{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 120px;
+    margin-top: 20px;
+}
+

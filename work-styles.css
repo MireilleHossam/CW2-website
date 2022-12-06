@@ -188,6 +188,8 @@ h1{
     font-size: 25px;
     color: rgba(219, 42, 85, 1);
     font-weight: bold;   
+    background-color: white;
+  
 }
 .container-gallery{
     border: 5px solid rgb(9, 2, 3);
@@ -241,10 +243,9 @@ h1{
     flex-wrap: wrap;
 }
 
-/* --Coustimizing the pics seperatly---*/
+/* --Costumizing the pics seperatly---*/
 .photo1{
     height: 380px;
-
 }
 .photo2{
     height: 600px;
@@ -263,14 +264,12 @@ h1{
 }
 .photo7{
     height: 475.6px;
-
 }
 .photo8{
     height: 600px;
 }
 .photo9{
     height: 475.6px;
-
 }
 
 
@@ -294,3 +293,19 @@ h1{
 .gallery-text span{
     padding: 50px;
 }
+
+/* .all-nav-section{
+    border: 10px solid green;
+    position: fixed;
+    top: 0px;
+    background-color: white;
+    /* height: 400px; */
+    /* width: 1440px;
+    z-index: 1;
+
+} */
+
+/* .main-section-footer{
+    border: 5px dashed blueviolet;
+    margin-top: 400px;
+} */ */
