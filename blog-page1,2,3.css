@@ -117,4 +117,41 @@ span{
     flex: 1;
     padding: 20px;
 }
+.page-title{
+    border: 2px solid rgb(0, 8, 255);
+}
+.page-title h1{
+    border: 2px solid rgb(0, 8, 255);
+    padding: 15px;
+    position: relative;
+}
+.page-title img{
+    border: 2px solid red;
+    position: absolute;
+    bottom: 6px;
+    right: 15px;
+}
 
+.previous-button{
+    margin-left: 40px;
+    position: absolute;
+   
+}
+.next-button{
+    margin-left: 1300px;
+    padding:  15px 35px;
+}
+
+.big-blog-container{
+    border: 3px dashed darkblue;
+    display: flex;
+}
+.arrow-icons{
+    margin-top: 340px;
+}
+.left-arrow{
+    margin-left: 80px;
+}
+.right-arrow{
+    margin-right: 80px;
+}

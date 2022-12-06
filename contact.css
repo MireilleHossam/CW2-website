@@ -79,3 +79,7 @@ input ,textarea{
     color: rgb(255, 255, 255);
 }
 
+/*==========Navigation bar------------------*/
+.trans-bg{
+    background-color:red;
+}

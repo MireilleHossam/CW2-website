@@ -45,6 +45,7 @@ h1{
     margin: auto; 
     display: flex;
     justify-content: space-between;
+    margin-bottom: 40px;
 }
 
 .blog img{
@@ -94,8 +95,20 @@ h1{
     color: black;
 }
 
-
-
+.big-block-container{
+    border: 3px solid purple;
+    display: flex;
+}
+.left-arrow{
+    margin-top: 0px;
+    margin-top: 180px;
+    margin-left: 80px;
+}
+.right-arrow{
+    margin-top: 0px;
+    margin-top: 180px;
+    margin-right: 80px;
+}
 
 
 

@@ -14,7 +14,7 @@ body{
     flex-direction: column;
     justify-content: center;
     font-size: 25px;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
    
 }
 
@@ -40,10 +40,10 @@ body{
     font-weight: bold;
 
 }
-.main-nav a:visited{
+/* .main-nav a:visited{
     color: rgba(219, 42, 85, 1);
     font-weight: bold;
-}
+} */
 
 /* styling applied to all links and lists*/
 ul{
@@ -64,10 +64,10 @@ li{
     color: rgba(219, 42, 85, 1);
     font-weight: bold;
  }
-a:visited {
+/* a:visited {
     color: rgba(219, 42, 85, 1);
     font-weight: bold;
-}
+} */
 
 /* footer used in all web-pages*/
 .footer{
@@ -134,4 +134,45 @@ button a:hover{
 .nav-page-on a{
     color:rgba(219, 42, 85) ;
     font-weight: bold;
+}
+
+/* ------FIXED POSITION Nav bar---------*/
+.fixed-nav{
+    border: 8px solid rgb(18, 11, 11);
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+    background-color: white;
+}
+.main-section-footer{
+    border: 8px solid rgb(61, 14, 232);
+    margin-top: 380px;
+}
+.main-work{
+    margin-top: 220px;
+}
+.main-photo{
+    margin-top: 270px;
+}
+.main-animation{
+    margin-top: 270px;
+
+}
+.main-video{
+    margin-top: 270px;
+}
+.pink-bg{
+    background-color: rgba(221, 175, 186, 1);
+}
+.trans-bg{
+    background-color: rgba(221, 175, 186, 0);
+}
+.main-blog{
+    margin-top: 250px;
+}
+.blogs-main{
+    margin-top: 200px;
+}
+.main-about{
+    margin-top: 300px;
 }
